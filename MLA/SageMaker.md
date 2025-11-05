@@ -1,11 +1,11 @@
 # SageMaker
 SageMakerは、AIを使用するための環境を作成するサービスです。データをアップロードして、AIを使用することができます。
-
-# SageMaker Studio
+## SageMaker Studio
 WebのUI上でAIを使用するための環境を作成する総合開発環境
-
-# SageMaker Neo
+## SageMaker Neo
 機械学習モデルをクラウドやエッジデバイスで高速・効率的に動作させるためのサービス
+## SageMaker JumpStart
+
 
 # Amazon SageMakerAIに組み込めるアルゴリズム
 ## 教師なし
