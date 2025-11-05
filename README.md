@@ -1,6 +1,6 @@
-# Python データ分析学習プロジェクト
+# AWS勉強用リポジトリ
 
-このリポジトリは、Pythonを使ったデータ分析の学習用です。
+このリポジトリは、AWSの勉強用です。
 
 ### 🚀 自動プッシュスクリプトの実行方法
 
@@ -8,14 +8,9 @@
 
 初回のみ、PowerShellでスクリプト実行を許可する必要があります。
 
-**方法1: 現在のセッションのみ許可（推奨）**
+**方法: 現在のセッションのみ許可**
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-```
-
-**方法2: ユーザーレベルで永続的に許可**
-```powershell
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 #### スクリプトの起動
